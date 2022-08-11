@@ -33,6 +33,11 @@ li {list-style-type:disc;}
 	 list-style-type:disc;
 	 line-height:30px;
 }
+
+ol li{
+	list-style-type:decimal;
+	list-style-position:none;
+}
 .researchInt ul li{
 	 list-style-type:disc;
 	 line-height:30px;
@@ -64,3 +69,4 @@ li {list-style-type:disc;}
 	float:right;
 	width:80%;
 }
+
